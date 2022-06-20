@@ -2,9 +2,9 @@
 Seja bem vindo ao meu github 😄
 
 
-
-![GuiMikami GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiMikami&show_icons=true&theme=dark)
-
+<div align="center">
+  <a href="https://github.com/GuiMikami">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiMikami&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 <!--
 **GuiMikami/GuiMikami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
