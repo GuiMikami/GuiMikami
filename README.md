@@ -1,6 +1,6 @@
 ### Olá, Sou o Guilherme Mikami 👋
 Seja bem vindo ao meu github 😄
-
+Por aqui eu guardo meu aprendizado e consigo ver minha evolução nesse mundo tec ;p
 
 <div align="center">
   <a href="https://github.com/GuiMikami">
